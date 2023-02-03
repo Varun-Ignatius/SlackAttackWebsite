@@ -94,7 +94,7 @@ export default function Typography() {
               <img
                 alt="..."
                 className="img-fluid rounded shadow-lg"
-                src={require("assets/img/minion.gif")}
+                src={require("assets/img/giphy.gif")}
                 style={{ width: "150px" }} 
               />
                <h1>
