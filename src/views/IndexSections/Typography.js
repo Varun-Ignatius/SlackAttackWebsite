@@ -89,7 +89,7 @@ export default function Typography() {
             <Card>
             <CardBody>
             <p className="d-block text-uppercase font-weight-bold mb-4" style={{ color: '#525f7f' }}>
-                Your Name
+                Jasmin Dhorajia
               </p>
               <img
                 alt="..."
@@ -101,10 +101,10 @@ export default function Typography() {
 
               </h1>
               <small className="d-block text-uppercase font-weight-bold mb-4">
-                GitHub Name: xxx
+                GitHub Name: jdhorajia
               </small>
               <small className="d-block text-uppercase font-weight-bold mb-4">
-                Discord Name: xxx
+                Discord Name: jazz#3061
               </small>
               </CardBody>
               </Card>
