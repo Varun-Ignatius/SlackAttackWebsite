@@ -70,7 +70,7 @@ export default function Typography() {
               <img
                 alt="..."
                 className="img-fluid rounded shadow-lg"
-                src={require("assets/img/james.jpg")}
+                src={require("assets/img/minion.jpg")}
                 style={{ width: "150px" }}
               />
                <h1>
