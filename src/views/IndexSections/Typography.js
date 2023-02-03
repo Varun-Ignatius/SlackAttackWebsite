@@ -113,22 +113,22 @@ export default function Typography() {
             <Card>
             <CardBody>
             <p className="d-block text-uppercase font-weight-bold mb-4" style={{ color: '#525f7f' }}>
-                Your Name
+                Rinkal Shah
               </p>
               <img
                 alt="..."
                 className="img-fluid rounded shadow-lg"
-                src={require("assets/img/james.jpg")}
+                src={require("assets/img/cute-anime.png")}
                 style={{ width: "150px" }}
               />
                <h1>
 
                 </h1>
                 <small className="d-block text-uppercase font-weight-bold mb-4">
-                  GitHub Name: xxx
+                  GitHub Name: rs2444
                 </small>
                 <small className="d-block text-uppercase font-weight-bold mb-4">
-                  Discord Name: xxx
+                  Discord Name: rs2444#9329
                 </small>
                 </CardBody>
                 </Card>
