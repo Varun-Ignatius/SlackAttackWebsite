@@ -1,11 +1,11 @@
 {
-  "short_name": "BLK Design System React",
-  "name": "BLK Design System React by Creative Tim",
+  "short_name": "Slack Attack",
+  "name": "Slack Attack",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "assets/img/slack-attack-high-resolution-logo-black-on-transparent-background.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/x-png"
     }
   ],
   "start_url": "./index.html",

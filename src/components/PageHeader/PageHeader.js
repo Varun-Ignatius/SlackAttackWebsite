@@ -32,10 +32,17 @@ export default function PageHeader() {
       <div className="squares square7" />
       <Container>
         <div className="content-center brand">
-          <h1 className="h1-seo">BLK• React</h1>
-          <h3 className="d-none d-sm-block">
-            A beautiful Design System for Bootstrap 4 (reactstrap) and React.
-            It's Free and Open Source.
+        <img
+                alt="..."
+                className="img-fluid rounded shadow"
+                src={require("assets/img/slack-attack-high-resolution-logo-white-on-transparent-background.png")}
+                style={{ width: "400px" }}
+              />
+          <div>
+              <h1> </h1>
+          </div>
+          <h3 className="d-none d-sm-block" style={{ color: '#525f7f' }}>
+            This is the website for our Team. Please scroll down to view squad member's details.
           </h3>
         </div>
       </Container>
