@@ -94,8 +94,8 @@ export default function Typography() {
               <img
                 alt="..."
                 className="img-fluid rounded shadow-lg"
-                src={require("assets/img/james.jpg")}
-                style={{ width: "150px" }}
+                src={require("assets/img/cute-anime.png")}
+                style={{ width: "150px" }} 
               />
                <h1>
 
